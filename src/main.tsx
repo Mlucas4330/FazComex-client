@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import './index.css';
 
-export const uri = 'https://crimson-goose-cuff.cyclic.app/sum';
+export const uri = 'https://crimson-goose-cuff.cyclic.app';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
     <React.StrictMode>
